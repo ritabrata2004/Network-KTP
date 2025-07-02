@@ -1,7 +1,7 @@
 /*===========================================
  Assignment 4: Emulating End-to-End Reliable Flow Control
- Name: Aritra Maji
- Roll number: 22CS30011
+ Name: Ritabrata Bharati
+ Roll number: 22CS10059
 ============================================*/
 
 #include "ksocket.h"
